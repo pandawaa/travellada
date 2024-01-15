@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://travellada-88hu.vercel.app/" target="_blank">
+      <a href="https://travellada.vercel.app/" target="_blank">
       <img src="https://github.com/pandawaa/travellada/blob/main/public/travellada-home-page.png">
     </a>
   <br />
@@ -81,4 +81,4 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## <a name="links">🔗 Links</a>
 
-Project Website can be found in Link [here](https://travellada-88hu.vercel.app)
+Project Website can be found in Link [here](https://travellada.vercel.app)
